@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ManoeldeCastro/to-do-list/static/css/main.b08341ef.css",
+    "main.js": "/ManoeldeCastro/to-do-list/static/js/main.bcaee754.js",
+    "static/js/787.34d05ddd.chunk.js": "/ManoeldeCastro/to-do-list/static/js/787.34d05ddd.chunk.js",
+    "index.html": "/ManoeldeCastro/to-do-list/index.html",
+    "main.b08341ef.css.map": "/ManoeldeCastro/to-do-list/static/css/main.b08341ef.css.map",
+    "main.bcaee754.js.map": "/ManoeldeCastro/to-do-list/static/js/main.bcaee754.js.map",
+    "787.34d05ddd.chunk.js.map": "/ManoeldeCastro/to-do-list/static/js/787.34d05ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08341ef.css",
+    "static/js/main.bcaee754.js"
+  ]
+}
